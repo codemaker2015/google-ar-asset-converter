@@ -14,7 +14,10 @@ This repository contains Sceneform binaries to generate .SFA and .SFB files to i
 ### For Windows,
     
     sceneform_sdk\windows\converter -a -d --outdir output input\model.fbx
-
+    
+### For Mac,
+    ./sceneform_sdk/mac/converter -a -d --outdir output input/model.fbx
+    
 ## API Reference
 
 See the [Sceneform API Reference](//developers.google.com/ar/reference/java/com/google/ar/sceneform/package-summary).
